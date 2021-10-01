@@ -9,6 +9,6 @@ if __name__ == '__main__':
         hypebeast_scraper.find_latest_stories()
         the_verge_scraper.find_verge_tech_stories()
         display_articles.display_articles()
-        time_wait = 10
-        print(f'Waiting {time_wait} minutes')
+        time_wait = 1
+        print(f'Refreshing in {time_wait} minute.')
         time.sleep(time_wait * 60)
