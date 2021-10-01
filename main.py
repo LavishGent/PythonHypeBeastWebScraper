@@ -1,4 +1,6 @@
 import json
+import time
+import display_articles
 
 from bs4 import BeautifulSoup
 import requests
@@ -38,5 +40,11 @@ def find_latest_stories():
         for title, link in title_link_pair.items():
             f.write(f'{title}\n{link}\n\n')
 
-find_hypebeast_trending_stories()
-find_latest_stories()
+if __name__ == '__main__':
+    while True:
+        find_hypebeast_trending_stories()
+        find_latest_stories()
+        exec('display_articles')
+        time_wait = 10
+        print(f'Waiting {time_wait} minutes')
+        time.sleep(time_wait * 60)
