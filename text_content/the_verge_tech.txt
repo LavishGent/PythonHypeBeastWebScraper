@@ -1,0 +1,114 @@
+Google’s Search On fall 2021 event: news and announcements
+https://www.theverge.com/2021/9/29/22699191/google-search-on-fall-2021-news-announcements
+
+Google expands shopping searches with Lens and in-store inventory checks
+https://www.theverge.com/2021/9/29/22696646/google-shopping-lens-search-inventory-check-ios-chrome
+
+Google Lens will soon search for words and images combined
+https://www.theverge.com/2021/9/29/22698014/google-lens-update-text-search-desktop-chrome
+
+Google is using AI to help users explore the topics they’re searching for — here’s how
+https://www.theverge.com/2021/9/29/22696268/google-search-on-updates-ai-mum-explained
+
+Artificial intelligence might eventually write this article
+https://www.theverge.com/2021/9/28/22696041/artificial-intelligence-ai-gpt-3-writer-podcast-vergecast
+
+Gitamini is a cute, compact, cargo-carrying robot that will follow you around like a dog
+https://www.theverge.com/2021/9/22/22685649/gita-gitamini-cargo-carrying-robot-piaggio
+
+AI might help edit the next generation of blockbusters
+https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless
+
+Everyone will be able to clone their voice in the future
+https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast
+
+Facebook says its AI mislabeling a video of Black men as “primates” was “unacceptable”
+https://www.theverge.com/2021/9/4/22657026/facebook-mislabeling-video-black-men-primates-algorithm
+
+AI computers can’t patent their own inventions — yet — a US judge rules
+https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling
+
+Quick phrases could let you skip ‘Hey, Google’ for common tasks
+https://www.theverge.com/2021/9/2/22653614/google-assistant-quick-phrases-guacamole-salsas-wake-word-phrase
+
+How to watch Tesla’s AI day event 
+https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream
+
+What to expect from Tesla’s AI day event
+https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect
+
+Inside Amazon’s $3.5 million competition to make Alexa chat like a human
+https://www.theverge.com/2018/6/13/17453994/amazon-alexa-prize-2018-competition-conversational-ai-chatbots
+
+OpenAI can translate English into code with its new machine learning software Codex
+https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access
+
+Twitter’s photo-cropping algorithm prefers young, beautiful, and light-skinned faces
+https://www.theverge.com/2021/8/10/22617972/twitter-photo-cropping-algorithm-ai-bias-bug-bounty-results
+
+Amazon gives Alexa a new iOS widget and the ability to assign reminders 
+https://www.theverge.com/2021/7/29/22600568/amazon-alexa-widget-ios-assign-reminders
+
+This YouTube channel is using AI to gloriously remaster classic game cutscenes
+https://www.theverge.com/2021/7/25/22593438/upscale-enhance-hd-4k-8k-final-fantasy-kingdom-hearts-wow-onimusha
+
+DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence
+https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free
+
+New Anthony Bourdain documentary deepfakes his voice
+https://www.theverge.com/2021/7/15/22578707/anthony-bourdain-documentary-deepfake-voice
+
+Black teen barred from skating rink by inaccurate facial recognition
+https://www.theverge.com/2021/7/15/22578801/black-teen-skating-rink-inaccurate-facial-recognition
+
+Inside Waymo’s strategy to grow the best brains for self-driving cars
+https://www.theverge.com/2018/5/9/17307156/google-waymo-driverless-cars-deep-learning-neural-net-interview
+
+US sanctions a Chinese facial recognition company with Silicon Valley funding
+https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding
+
+GitHub’s automatic coding tool rests on untested legal ground
+https://www.theverge.com/2021/7/7/22561180/github-copilot-legal-copyright-fair-use-public-code
+
+Maine passes the strongest state facial recognition ban yet
+https://www.theverge.com/2021/6/30/22557516/maine-facial-recognition-ban-state-law
+
+Federal agencies use facial recognition from private companies, but almost nobody is keeping track
+https://www.theverge.com/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight
+
+GitHub and OpenAI launch a new AI tool that generates its own code
+https://www.theverge.com/2021/6/29/22555777/github-openai-ai-tool-autocomplete-code
+
+Rembrandt’s Night Watch uncropped by AI 300 years after it was trimmed  
+https://www.theverge.com/2021/6/24/22548402/rembrandt-night-watch-uncropped-artificial-intelligence-rijksmuseum
+
+Artificial intelligence is going to supercharge surveillance
+https://www.theverge.com/2018/1/23/16907238/artificial-intelligence-surveillance-cameras-security
+
+Canon put AI cameras in its Chinese offices that only let smiling workers inside
+https://www.theverge.com/2021/6/17/22538160/ai-camera-smile-recognition-office-workers-china-canon
+
+Facebook develops new method to reverse-engineer deepfakes and track their source
+https://www.theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters
+
+Facebook’s AI moderator will tell group admins when users are beefing in the comments
+https://www.theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting
+
+Google is using AI to design its next generation of AI chips more quickly than humans can
+https://www.theverge.com/2021/6/10/22527476/google-machine-learning-chip-design-tpu-floorplanning
+
+Apple’s Siri will finally work without an internet connection with on-device speech recognition
+https://www.theverge.com/2021/6/7/22522993/apple-siri-on-device-speech-recognition-no-internet-wwdc
+
+Apple’s Live Text is going to read all the text in all your photos with AI
+https://www.theverge.com/2021/6/7/22522859/apple-live-text-photos-notes-ios-15-wwdc
+
+Have autonomous robots started killing in war? The reality is messier than it appears
+https://www.theverge.com/2021/6/3/22462840/killer-robot-autonomous-drone-attack-libya-un-report-context
+
+Clearview AI hit with sweeping legal complaints over controversial face scraping in Europe
+https://www.theverge.com/2021/5/27/22455446/clearview-ai-legal-privacy-complaint-privacy-international-facial-recognition-eu
+
+Google isn’t ready to turn search into a conversation
+https://www.theverge.com/2021/5/26/22454513/google-future-of-search-conversation-ai-mum-lamda
+

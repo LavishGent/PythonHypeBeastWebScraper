@@ -1,6 +1,7 @@
 import json
 import time
 import display_articles
+import the_verge_scraper
 
 from bs4 import BeautifulSoup
 import requests
@@ -13,7 +14,7 @@ def find_hypebeast_trending_stories():
     link_list = []
 
     for article_title in article_titles:
-        title = article_title.find('a', class_ = 'post-link').text
+        title = article_title.h2.find('a', class_ = 'post-link').text
         link = article_title.a['href']
         title_list.append(title)
         link_list.append(link)
@@ -42,9 +43,16 @@ def find_latest_stories():
 
 if __name__ == '__main__':
     while True:
+        with open(f'text_content/latest_stories.txt', 'w') as f:
+            pass
+        with open(f'text_content/trending_stories.txt', 'w') as f:
+            pass
+        with open(f'text_content/the_verge_tech.txt', 'w') as f:
+            pass
         find_hypebeast_trending_stories()
         find_latest_stories()
-        exec('display_articles')
+        the_verge_scraper.find_verge_tech_stories()
+        display_articles.display_articles()
         time_wait = 10
         print(f'Waiting {time_wait} minutes')
         time.sleep(time_wait * 60)
