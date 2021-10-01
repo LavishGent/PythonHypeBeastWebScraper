@@ -43,12 +43,6 @@ def find_latest_stories():
 
 if __name__ == '__main__':
     while True:
-        with open(f'text_content/latest_stories.txt', 'w') as f:
-            pass
-        with open(f'text_content/trending_stories.txt', 'w') as f:
-            pass
-        with open(f'text_content/the_verge_tech.txt', 'w') as f:
-            pass
         find_hypebeast_trending_stories()
         find_latest_stories()
         the_verge_scraper.find_verge_tech_stories()
